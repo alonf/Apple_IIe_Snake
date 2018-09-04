@@ -5,7 +5,7 @@ When we opened the northern branch of CodeValue in Yokneam, Israel about two yea
 Among the computer magazines, I found an old folder from 1987. In 1987 I was an AFS students, I took part in a youth exchange program where I became an American teenager for six month. The folder that I found among my books and magazines contains all my homework's, many pages of long assembly code printed on a dot matrix printer.
 I thought – can I bring this game to life; can I use an Apple IIe emulator to run a code that I wrote more then 30 years ago when I was 17. I decided to give it a try.
 This is the result of my effort.
-You can download the binary file and try them on AppleWin (https://github.com/AppleWin/AppleWin) or another emulator such as a2ix (https://play.google.com/store/apps/details?id=org.deadc0de.apple2ix.basic&hl=en_US) or AppleIIjs (https://www.scullinsteel.com/apple2/)
+You can download the disk (https://github.com/alonf/Apple_IIe_Snake/blob/master/snake.dsk) and try the game on AppleWin (https://github.com/AppleWin/AppleWin) or another emulator such as a2ix (https://play.google.com/store/apps/details?id=org.deadc0de.apple2ix.basic&hl=en_US) or AppleIIjs (https://www.scullinsteel.com/apple2/)
 
 You can also play with the code using the S-C Macro assembly (http://www.txbobsc.com/scsc/scassembler/SCMacroAssembler20.html)
 
