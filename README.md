@@ -11,4 +11,4 @@ You can also play with the code using the S-C Macro assembly (http://www.txbobsc
 
 To run the game, enter the (virtual) disk, boot and type: BRUN GAME
 
-The full blog post: https://blogcodevalue.wordpress.com/2018/10/08/code-archaeology-how-to-revive-a-more-then-30-years-old-game/
+The full blog post: https://codevalue.com/code-archaeology/
